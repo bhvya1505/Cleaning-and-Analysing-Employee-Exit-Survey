@@ -1,5 +1,5 @@
 # Cleaning-and-Analysing-Employee-Exit-Survey
-This project uses pandas, NumPy, matplotlib.
+This project uses pandas, NumPy, matplotlib, seaborn.
 
 In this project, we'll work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. You can find the TAFE exit survey and the survey for the DETE in the repository.
 
