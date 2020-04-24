@@ -7,5 +7,6 @@ We try to find answers to the following questions:
 
 - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 - Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+- Are female employees resigning due to some kind of dissatisfaction? What about male employees?
 
 The Jupyter Notebook file Basics.ipynb contains further description of the project along with the codes and their explanations.
